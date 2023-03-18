@@ -8,4 +8,5 @@ Analysing the data of Kevin's Company that sells Cookies using Power BI
 - Seek the relationships between the tables. (merge queries in Power Query (Select the join type and the commun columns between the tables).
 - Building the Visuals: 
   - Start by inserting a title to your report (to help users to have a first idea about what the report is about).
-  - 
+  - Trim text (numbers) data types.
+  
