@@ -9,4 +9,5 @@ Analysing the data of Kevin's Company that sells Cookies using Power BI
 - Building the Visuals: 
   - Start by inserting a title to your report (to help users to have a first idea about what the report is about).
   - Trim text (numbers) data types.
+  - Make sure to have sales adjusted in currency in order to use them for your visuals.
   
